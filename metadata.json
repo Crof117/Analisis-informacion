@@ -1,0 +1,6 @@
+{
+  "name": "Observatorio Geopolítico y Electoral de Colombia",
+  "description": "Plataforma de inteligencia y análisis territorial sobre elecciones presidenciales, orden público y presencia de grupos armados en Colombia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
